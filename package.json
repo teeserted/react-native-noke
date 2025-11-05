@@ -14,8 +14,5 @@
   ],
   "author": "Ant-Tech Ltd.",
   "license": "",
-  "repository": "https://github.com/PetroCloud/react-native-noke",
-  "peerDependencies": {
-    "react-native": "^0.41.2"
-  }
+  "repository": "https://github.com/PetroCloud/react-native-noke"
 }
